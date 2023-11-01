@@ -6,3 +6,5 @@ Localizada no coração da cidade a Barbearia Alura traz para o mercado o que h�
 Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".
 
 Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+
+![banner](https://github.com/CaiqueFG/aulaalurabarbearia/assets/137530849/46a4a72b-432c-4cae-a903-631f4fe63a67)
